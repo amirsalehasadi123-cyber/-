@@ -1,0 +1,6 @@
+{
+  "name": "مدرسه شهید صیاد شیرازی | Shahid Sayyad Shirazi School",
+  "description": "سامانه هوشمند و جامع آموزشی مدرسه شهید صیاد شیرازی - وبسایت واکنش‌گرا و مدرن آموزشی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
